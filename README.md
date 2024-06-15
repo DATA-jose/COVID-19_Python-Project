@@ -1,6 +1,6 @@
 # COVID-19_Python-Project#
 
-DETAILS ABOUT PROJECT : Pandemics are alwqays deadly no matter the shapes it tkes or geographical area it affects but nothing is as deadly as lacking the knowledge or data about it perhaps knowing how to tackle it.
+DETAILS ABOUT PROJECT : Pandemics are always deadly no matter the shapes it takes or geographical area it affects but nothing is as deadly as lacking the knowledge or data about it perhaps knowing how to tackle it.
    We are all aware of the adverse effects the corona virus had on both the economy and our personal lives couple of years back and attached to this are the slides showing the statistics sorrounding it ranging from;
 * Total cases,
 * Death cases,
